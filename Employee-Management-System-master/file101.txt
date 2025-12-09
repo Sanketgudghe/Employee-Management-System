@@ -1,0 +1,7 @@
+Employee ID      : 101
+Employee Name    : sanket gudghe
+Father's Name    : kakaaheb
+Contact          : 6698453453
+Email            : gudghefgfg
+Position         : devloper
+Salary           : 44556
